@@ -12,6 +12,7 @@ namespace HelloGit
             Console.WriteLine("Another update fff");
             //TEsting comments
             Console.WriteLine("Update from my Ubuntu Laptop");
+            Console.WriteLine("New Change 2018/05/12");
             Console.ReadLine();
         }
     }
